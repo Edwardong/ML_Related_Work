@@ -6,4 +6,4 @@ ML Part is from Winter 2019 CS165B @UCSB.
 NLP Part is from Fall 2018 CS190I @UCSB.
 
 ## NOTICE: 
-This Repo is under **GPL 3.0** License.
+This Repo is under **GPL 3.0** License. Simply copying & pasting and using it as your solution to the assignments would cause **serious** issue of academic integrity.
